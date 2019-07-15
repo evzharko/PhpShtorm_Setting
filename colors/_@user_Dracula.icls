@@ -4,7 +4,7 @@
     <property name="created">2019-06-09T21:27:37</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2019-06-09T21:34:03</property>
+    <property name="modified">2019-07-15T14:39:22</property>
     <property name="originalScheme">Dracula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -32,23 +32,27 @@
     <option name="CARET_ROW_COLOR" value="44475a" />
     <option name="CONSOLE_BACKGROUND_KEY" value="282a36" />
     <option name="DELETED_LINES_COLOR" value="ff79c6" />
-    <option name="FILESTATUS_ADDED" value="c3e88d" />
-    <option name="FILESTATUS_COPIED" value="c3e88d" />
-    <option name="FILESTATUS_DELETED" value="808080" />
-    <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="808080" />
+    <option name="FILESTATUS_ADDED" value="a9dc76" />
+    <option name="FILESTATUS_COPIED" value="a9dc76" />
+    <option name="FILESTATUS_DELETED" value="727072" />
+    <option name="FILESTATUS_HIJACKED" value="ffd866" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="727072" />
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="ab7967" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="fc9867" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="fc9867" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="fc9867" />
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
-    <option name="FILESTATUS_MERGED" value="c792ea" />
-    <option name="FILESTATUS_MODIFIED" value="80cbc4" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
+    <option name="FILESTATUS_MERGED" value="ab9df2" />
+    <option name="FILESTATUS_MODIFIED" value="78dce8" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="78dce8" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="78dce8" />
     <option name="FILESTATUS_OBSOLETE" value="" />
-    <option name="FILESTATUS_SUPPRESSED" value="717cb4" />
-    <option name="FILESTATUS_SWITCHED" value="c792ea" />
-    <option name="FILESTATUS_UNKNOWN" value="f77669" />
-    <option name="FILESTATUS_addedOutside" value="c3e88d" />
-    <option name="FILESTATUS_modifiedOutside" value="82aaff" />
+    <option name="FILESTATUS_SUPPRESSED" value="727072" />
+    <option name="FILESTATUS_SWITCHED" value="ab9df2" />
+    <option name="FILESTATUS_UNKNOWN" value="f59762" />
+    <option name="FILESTATUS_addedOutside" value="a9dc76" />
+    <option name="FILESTATUS_changelistConflict" value="f65f87" />
+    <option name="FILESTATUS_modifiedOutside" value="78dce8" />
     <option name="GUTTER_BACKGROUND" value="282a36" />
     <option name="INDENT_GUIDE" value="424450" />
     <option name="LINE_NUMBERS_COLOR" value="666879" />
