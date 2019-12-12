@@ -3,15 +3,15 @@
     <extensionMap>
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="s" type="PLAIN_TEXT" />
-      <mapping pattern="Readme Refaktoring" type="PLAIN_TEXT" />
-      <mapping pattern=".dockerenv" type="PLAIN_TEXT" />
       <mapping pattern="AddQueueMembers" type="PLAIN_TEXT" />
+      <mapping pattern="Readme Refaktoring" type="PLAIN_TEXT" />
+      <mapping pattern="s" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerenv" type="PLAIN_TEXT" />
       <mapping ext="10" type="PLAIN_TEXT" />
       <mapping ext="woff2" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
